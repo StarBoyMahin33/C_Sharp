@@ -1,0 +1,8 @@
+E:\oop2 codes\BasicOutputSolution\BasicOutput\bin\Debug\BasicOutput.exe.config
+E:\oop2 codes\BasicOutputSolution\BasicOutput\bin\Debug\BasicOutput.exe
+E:\oop2 codes\BasicOutputSolution\BasicOutput\bin\Debug\BasicOutput.pdb
+E:\oop2 codes\BasicOutputSolution\BasicOutput\obj\Debug\BasicOutput.csproj.AssemblyReference.cache
+E:\oop2 codes\BasicOutputSolution\BasicOutput\obj\Debug\BasicOutput.csproj.CoreCompileInputs.cache
+E:\oop2 codes\BasicOutputSolution\BasicOutput\obj\Debug\BasicOutput.exe
+E:\oop2 codes\BasicOutputSolution\BasicOutput\obj\Debug\BasicOutput.pdb
+E:\oop2 codes\BasicOutputSolution\BasicOutput\obj\Debug\BasicOutput.exe.config

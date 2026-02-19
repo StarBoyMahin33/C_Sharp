@@ -1,0 +1,8 @@
+E:\oop2 codes\Class2Solution\Class2\bin\Debug\Class2.exe.config
+E:\oop2 codes\Class2Solution\Class2\bin\Debug\Class2.exe
+E:\oop2 codes\Class2Solution\Class2\bin\Debug\Class2.pdb
+E:\oop2 codes\Class2Solution\Class2\obj\Debug\Class2.csproj.AssemblyReference.cache
+E:\oop2 codes\Class2Solution\Class2\obj\Debug\Class2.csproj.CoreCompileInputs.cache
+E:\oop2 codes\Class2Solution\Class2\obj\Debug\Class2.exe
+E:\oop2 codes\Class2Solution\Class2\obj\Debug\Class2.pdb
+E:\oop2 codes\Class2Solution\Class2\obj\Debug\Class2.exe.config
